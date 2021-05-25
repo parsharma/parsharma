@@ -1,4 +1,4 @@
-### Hi there, I'm Parul Sharma 👋
+### Hi there, I'm Parul 👋
 
 
 - 🔭 I’m currently working with RED HAT as a Software Engineer
